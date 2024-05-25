@@ -1,0 +1,7 @@
+{
+  "name": "Brown's Market",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
